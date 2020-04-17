@@ -4,7 +4,7 @@
   "values": [
     {
       "key": "GRAVITEEIO_MGMT_URL",
-      "value": "http://localhost:8083",
+      "value": "http://localhost:8083/management",
       "enabled": true
     },
     {
@@ -49,7 +49,7 @@
     },
     {
       "key": "GRAVITEEIO_AM_MANAGEMENT_URL",
-      "value": "http://localhost:8093",
+      "value": "http://localhost:8093/management",
       "enabled": true
     },
     {
